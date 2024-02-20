@@ -1,0 +1,11 @@
+numpy==1.24.4
+tqdm==4.65.0
+torchaudio==0.12.1
+torchmetrics==0.11.0
+torchvision==0.13.1
+scikit-learn==1.2.0
+scipy==1.11.1
+pandas==2.0.3
+bio==1.5.9
+biopython==1.81
+rdkit
